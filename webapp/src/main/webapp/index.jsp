@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!DOCTYPE html>
 <html lang="en">
 
@@ -71,10 +70,3 @@
 </body>
 
 </html>
-=======
-<h1> Hello, Welcome to DevOps Project 3 !!! </h1>
->>>>>>> 79c30b502804c166378797e9657121334dc58d55
-
-
-
-<h2>Mr. Shareff</h2>
